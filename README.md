@@ -1,40 +1,26 @@
-<div align="center">
-<br><br><br>
+<div align=center>
 
-<!-- Don't just fork or copy it. Star it, please 🥺  -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPortugaCode)](https://hits.seeyoufarm.com) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+JungGeun.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+</div>
 
-<br><br><br>
+### Hi there, I`m JungGeun
+### 👋 반갑습니다!
+* 💻 아직 배울게 많은 주니어 클라이언트 엔지니어입니다.
+* 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 
-<!-- devpla's profile -->
- 
-<a href="https://github.com/PortugaCode/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpla&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
-</a>
-<a href="https://github.com/PortugaCode/github-stats">
- <img src="https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg" width=51% />
-</a>
-<a href="https://github.com/PortugaCode/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devpla&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
-</a>
+**언어 및 도구**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
+
+<div align=center>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poolutoocaa123@gmail.com)](mailto:poolutoocaa123@gmail.com)
+</div>
 
 
-<br><br><br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPortugaCode&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
-
-<!--
-**devpla/devpla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+[![gitanimals](https://render.gitanimals.org/farms/PortugaCode)](https://github.com/devxb/gitanimals)
