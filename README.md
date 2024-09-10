@@ -18,9 +18,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 
-<br/>
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poolutoocaa123@gmail.com)](mailto:poolutoocaa123@gmail.com)
 </div>
-<br/><br/>
+
 [![gitanimals](https://render.gitanimals.org/farms/PortugaCode)](https://github.com/devxb/gitanimals)
-</div>
+
