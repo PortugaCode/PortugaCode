@@ -20,4 +20,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poolutoocaa123@gmail.com)](mailto:poolutoocaa123@gmail.com)
 </div>
 <br/><br/>
-[![gitanimals](https://render.gitanimals.org/farms/PortugaCode)](https://github.com/devxb/gitanimals)
+[[gitanimals](https://render.gitanimals.org/farms/PortugaCode)](https://github.com/devxb/gitanimals)
