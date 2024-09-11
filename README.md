@@ -1,7 +1,9 @@
 
 <div align=center>
 
-###  Hi there 👋 I'm JungGeun 👨‍💻
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20OH!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+
+###  안녕하세요. 👋 OH! 👨‍💻
 💻 아직 배울게 많은 주니어 클라이언트 엔지니어입니다.  
 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 <br/><br/>
