@@ -1,7 +1,7 @@
 
 <div align=center>
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=I%20am%20Oh!&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=5f8eb3&text=I%20am%20Oh!&fontSize=40&animation=twinkling)
 
 
 ### 👋 안녕하세요 👋
