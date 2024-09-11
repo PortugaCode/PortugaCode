@@ -1,7 +1,7 @@
 
 <div align=center>
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Oh!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=I%20am%20Oh!&fontSize=40&animation=twinkling)
 
 
 ### 👋 안녕하세요 👋
