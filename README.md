@@ -2,7 +2,7 @@
 <div align=center>
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Keep%20Learning&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hi!%20there%20I`m%20Oh!&descAlignY=51&descAlign=62"/>
+    ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Oh!.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 </p>
 
 ### 👋 안녕하세요 👋
