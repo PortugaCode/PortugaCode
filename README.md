@@ -1,14 +1,16 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20OH!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20Hi!%20there%20I`m%20Oh!&descAlignY=51&descAlign=62"/>
+</p>
 
 ###  안녕하세요. 👋 OH! 👨‍💻
 💻 아직 배울게 많은 주니어 클라이언트 엔지니어입니다.  
 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 <br/><br/>
 
-### My Stack  
+### 📚 My Stack 📚
 <code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></code>
