@@ -20,8 +20,9 @@
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:poolutoocaa123@gmail.com'>poolutoocaa123@gmail.com</a>
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@portuga_code/posts)](https://velog.io/@portuga_code/posts) 
 </p>
+
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@portuga_code/)](https://velog.io/@portuga_code/) 
 
 </div>
 
