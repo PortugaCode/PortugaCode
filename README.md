@@ -1,7 +1,7 @@
 
 <div align=center>
 
-### Hi there, I`m JungGeun
+###  Hi there 👋 I'm JungGeun 👨‍💻
 ### 👋 반갑습니다!
 💻 아직 배울게 많은 주니어 클라이언트 엔지니어입니다.  
 😎 나만의 일을 찾기위해 열심히 노력중입니다.
@@ -14,8 +14,10 @@
 
 <br><br/>
 
+<p align='center'>
+  📫 How to reach me: <a href='mailto:poolutoocaa123@gmail.com'>poolutoocaa123@gmail.com</a>
+</p>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poolutoocaa123@gmail.com)](mailto:poolutoocaa123@gmail.com)
 </div>
 
 <div align=center>
