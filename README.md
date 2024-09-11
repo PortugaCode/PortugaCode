@@ -1,9 +1,8 @@
 
 <div align=center>
 
-<p align='center'>
-    ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Oh!.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
-</p>
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Oh!.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+
 
 ### 👋 안녕하세요 👋
 💻 아직 배울게 많은 주니어 클라이언트 엔지니어입니다.  
